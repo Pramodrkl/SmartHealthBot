@@ -16,10 +16,10 @@ Experience the SmartHealthBot application live! The frontend is deployed and ful
 
 ## 👨‍💻 Developer
 
-**Jitendra Kumar Dodwadiya**  
-📧 Email: [jitendrakumar637587@gmail.com](mailto:jitendrakumar637587@gmail.com)  
-🌐 Portfolio: [dwdjitendra-portfolio.vercel.app](https://dwdjitendra-portfolio.vercel.app/)  
-💼 LinkedIn: [dwdjitendra](https://www.linkedin.com/in/dwdjitendra/)  
+**Pramod Yadav**  
+📧 Email: [pramodrkl5350@gmail.com](mailto:pramodrkl5350@gmail.com)  
+
+💼 LinkedIn: [Pramod Yadav](https://www.linkedin.com/in/pramod-yadav-418695268/)  
 🚀 Full-Stack Developer specializing in MERN Stack & AI/ML Integration
 
 ## 🚀 Quick Start
@@ -192,7 +192,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/dwdjitendra-cloud/SmartHealth-Bot.git
+git clone https://github.com/Pramodrkl/SmartHealthBot/tree/main/SmartHealth-Bot-main
 cd SmartHealth-Bot
 ```
 
@@ -532,11 +532,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, questions, or collaboration opportunities:
 
 **Developer Contact:**
-- 📧 **Email**: [jitendrakumar637587@gmail.com](mailto:jitendrakumar637587@gmail.com)
-- 🌐 **Portfolio**: [dwdjitendra-portfolio.vercel.app](https://dwdjitendra-portfolio.vercel.app/)
-- 💼 **LinkedIn**: [dwdjitendra](https://www.linkedin.com/in/dwdjitendra/)
-- 🐛 **Issues**: Create an issue on [GitHub Issues](https://github.com/dwdjitendra-cloud/SmartHealth-Bot/issues)
-- 📖 **Documentation**: [Project Wiki](https://github.com/dwdjitendra-cloud/SmartHealth-Bot/wiki)
+- 📧 **Email**: [pramodrkl5350@gmail.com](mailto:pramodrkl5350@gmail.com)
+- 💼 **LinkedIn**: [Pramod Yadav](https://www.linkedin.com/in/pramod-yadav-418695268/)
+- 🐛 **Issues**: Create an issue on [GitHub Issues](https://github.com/Pramodrkl/SmartHealthBot/tree/main/SmartHealth-Bot-main)
+- 📖 **Documentation**: [Project Wiki](https://github.com/Pramodrkl/SmartHealthBot/tree/main/SmartHealth-Bot-main)
 
 ### Quick Response Times
 - **Bug Reports**: Usually within 24-48 hours
@@ -583,4 +582,4 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-**Built with ❤️ by [Jitendra Kumar](https://www.linkedin.com/in/dwdjitendra/) | Connect for collaboration opportunities!**
+**Built with ❤️ by [Pramod Yadav](https://www.linkedin.com/in/pramod-yadav-418695268/) | Connect for collaboration opportunities!**
